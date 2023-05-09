@@ -1,2 +1,33 @@
-# flutter-firebase-quizapp-course
-"Flutter-firebase-quizapp-course-master is a comprehensive course that teaches you how to build a dynamic quiz app using Flutter and Firebase. Learn how to create a polished user interface, handle user authentication, and store data in real-time with Firebase. Take your Flutter skills to the next level with this hands-on course. 
+# Flutter Firebase - The Full Course 3.0
+
+🕊️🔥 Build a realtime Quiz App from scratch with Flutter 3 & Firebase.
+
+## Learn it
+
+Enroll in the [Flutter Firebase Course](https://fireship.io/courses/flutter-firebase/) on Fireship.
+
+## Try it
+
+- [Get it on The App Store](https://itunes.apple.com/us/app/fireship/id1462592372?mt=8)
+- [Get it on Google Play](https://play.google.com/store/apps/details?id=io.fireship.quizapp)
+
+## Run it
+
+```
+git clone https://github.com/fireship-io/flutter-firebase-quizapp-course.git quizapp
+cd quizapp
+
+flutter run
+```
+
+## Learning Goals
+
+- 👨‍🎤 Build a complete Flutter app with Firebase
+- 🐦 Master most common Flutter widgets
+- 🔏 User Authentication (Apple, Google, Anonymous)
+- ⚒️ State Management with Provider
+- 🔥 Model relational Firestore data
+- 🎭 Animation for realtime data streams
+- ⚓ Organize large Flutter projects
+- 🤖 Firestore -> Dart Classes with JSON Serializable
+- 🚀 Deploy to the Apple App Store and Google Play
